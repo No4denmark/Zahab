@@ -17,3 +17,7 @@ npm run dev
 ## متغيرات البيئة (اختياري)
 
 - `ANTHROPIC_API_KEY` — لتشغيل المساعد الذكي بـ Claude. بدونه يعمل المساعد بقواعد مبرمجة.
+
+## النشر
+
+المشروع مربوط بـ Vercel: أي `push` على فرع `main` يُنشر تلقائياً على https://zahab-price.vercel.app
