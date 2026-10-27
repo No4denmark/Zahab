@@ -1,0 +1,14 @@
+# dependencies & build output
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+
+# deploy / local tooling
+.vercel
+.claude
+
+# secrets
+.env
+.env*.local
